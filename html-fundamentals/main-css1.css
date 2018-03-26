@@ -1,0 +1,29 @@
+body { 
+    background: white;
+    font-family: Arial;
+}
+
+h1,h2 {
+    color: rgb(21, 153, 185);
+}
+
+a {
+    color: #929
+}
+
+p {
+    color: white;
+    padding: 10px 5px 1px 0px;
+    background: rgb(21, 153, 185);
+}
+
+.secondary {
+    background: none;
+    color: rgb(173, 2, 2);
+
+}
+
+#special {
+    color: rgb(0, 0, 0);
+    background: yellow;
+}
